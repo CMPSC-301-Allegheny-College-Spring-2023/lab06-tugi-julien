@@ -8,18 +8,16 @@ Link to Source: [dataset](https://datacatalog.worldbank.org/search/dataset/00376
 
 ## Names of all members 
 
-Add Your Name Here
-Add Your Name Here
-Add Your Name Here
+Tuguldur Gantulga
+Julien Voisey
 
 ## Group Name
 
-Add Your Name Here
-
+tugi-julien
 
 ## Q1: Which dataset (please give the filename too) are you using from the downloaded package from the World Bank?
 
-TODO
+We used dataset from the gender statistics.
 
 ## Describe the data.
 
