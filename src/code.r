@@ -41,9 +41,9 @@ library(tidyverse)
 library(ggplot2)
 
 
-dat <- read.table(file.choose(), header = T, sep = ",")
-dat1 <- read.table(file.choose(), header = T, sep = ",")
-data2 <- read.table(file.choose(), header = T, sep = ",")
+dat <- read.table(file.choose(), header = T, sep = ",") #choose female data
+dat1 <- read.table(file.choose(), header = T, sep = ",") # choose male data
+data2 <- read.table(file.choose(), header = T, sep = ",") # the third both male and women data
 
 
 
