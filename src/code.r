@@ -145,3 +145,22 @@ ggplot() +
   ylab("Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate") +
   ggtitle("Men's labor participation rate in the U.S and U.K")
 
+
+data <- data.frame(subset_US_unemp, combined_subset$years, subset_US_unemp1, subset_US_labor_male)
+model <- lm(unlist.subset_US_unemp. ~ combined_subset$years + unlist.subset_US_unemp1. + unlist.subset_US_labor_male., data = data)
+
+# Load the dataset manually
+data <- data.frame(
+  year = c(1998:2019),
+  women_unemp = c(2.28, 2.15, 2.09, 2.59, 3.17, 3.25, 3.06, 2.79, 2.52, 2.50, 3.10, 5.03, 5.26, 5.17, 4.99, 4.45, 3.82, 3.15, 2.96, 2.79, 2.48, 2.41),
+  men_unemp = c(1.87, 2.09, 1.79, 2.54, 3.47, 3.65, 3.14, 2.63, 2.34, 2.34, 2.93, 5.65, 5.69, 5.10, 4.49, 4.19, 3.56, 2.91, 2.86, 2.58, 2.42, 2.35),
+  male_labor_part = c(83.11, 82.93, 82.32, 81.74, 80.86, 80.53, 80.37, 80.51, 80.23, 79.92, 78.78, 77.95, 77.35, 77.71, 77.30, 77.14, 77.20, 77.54, 77.77, 78.00, 78.31, NA),
+)
+
+# Run a linear regression with women unemployment rate as the dependent variable
+model <- lm(women_unemp ~ men_unemp+ male_labor_part, data=data)
+
+# View the summary of the model
+
+#view the model output
+summary(model)
