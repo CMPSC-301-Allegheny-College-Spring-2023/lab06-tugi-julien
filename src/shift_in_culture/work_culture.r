@@ -41,9 +41,9 @@ library(tidyverse)
 library(ggplot2)
 
 
-dat <- read.table(file.choose(), header = T, sep = ",") #choose fem_stat.csv data
-dat1 <- read.table(file.choose(), header = T, sep = ",") # choose male_stat.csv data
-data2 <- read.table(file.choose(), header = T, sep = ",") # choose labor_participation.csv data
+dat <- read.table(file.choose(), header = T, sep = ",") #choose fem_stat.csv
+dat1 <- read.table(file.choose(), header = T, sep = ",") # choose male_stat.csv
+data2 <- read.table(file.choose(), header = T, sep = ",") # labor_participation.csv
 
 
 
