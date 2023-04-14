@@ -21,7 +21,7 @@ We used dataset from the gender statistics.
 
 ## Describe the data.
 
-TODO
+The data had the female side of the things and the male of the things. Some data was 
 
 ## Q2: Complete an analysis to show evidence to confirm or refute the decline in marriage rates for two countries. 
 
