@@ -8,12 +8,12 @@
 print("The names of this group are the following.")
 print("Tuguldur")
 print("Julien")
-print("Add Your Name Here")
-print("Add Your Name Here")
+print("")
+print("")
 
 #######################################################
 print("The name of this group is the following.")
-print("Add Your Name Here")
+print("")
 
 rm(list = ls()) # clear out the variables
 # from memory to make a clean execution of the code.
