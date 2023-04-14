@@ -21,7 +21,7 @@ We used dataset from the gender statistics.
 
 ## Describe the data.
 
-The data had the female side of the things and the male of the things. The data described age at first marriage between malers and females.
+The data had the female side of the things and the male of the things. The data described age at first marriage between males and females.
 
 ## Q2: Complete an analysis to show evidence to confirm or refute the decline in marriage rates for two countries. 
 
@@ -46,20 +46,26 @@ Age at first marriage had a lot of limitations as there was not enough data for 
 ## Q3: Complete an analysis to show evidence to confirm or refute the narrowing gender wage gap
 
 
-
-### Justify the Variables or Indicator Names that you chose for this analysis. 
-
+I would try to confirm the narrowing gender gap
 
 
-#### What are the limitations to these variables in terms of addressing the above question? 
+### Justify the Variables or Indicator Names that you chose for this analysis.
 
 
+Women’s participation rate in the U.S. and the U.K.
+We also used the number of female salaried workers, where the female 
 
-### Describe your findings and their conclusions from your analysis.
+
+#### What are the limitations to these variables in terms of addressing the above question?
 
 
+I do not think the participation rate is a good variable when it comes to addressing the gender wage gap. Moreover, obviously, we have a number of female workers and we could definitely see that their numbers are increasing. However, to critique this their labor participation rate was much lower than men’s. Although we concluded that men had the higher participation rate. We could easily notice that women’s growth had much more growth between 2010 and 2019. It grew from 62% to 64%%. However, male-only grew from 80 to 80.3%.
+
+Women’s unemployment rate was slightly higher than the men’s unemployment rate
+As more years pass, less women are being unemployed
 
 ---
+
 
 ## Q4: Complete an analysis to show evidence to confirm or refute the preference (or cultural) shift toward market work
 
