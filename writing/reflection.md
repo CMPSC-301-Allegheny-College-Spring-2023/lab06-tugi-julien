@@ -75,20 +75,35 @@ As more years pass, less women are being unemployed
 
 ## Q4: Complete an analysis to show evidence to confirm or refute the preference (or cultural) shift toward market work
 
+
 ![Alt Text](UK.png)
+
 
 ![Alt Text](USworkers.png)
 
 
-### Justify the Variables or Indicator Names that you chose for this analysis. 
 
+### Justify the Variables or Indicator Names that you chose for this analysis.
+
+
+For this analysis, I chose the U.S. wage and salaried workers male and female (% of male and female employment).
+
+
+Also, I chose the same variable for the U.K. too. Because I needed two countries
 
 
 #### What are the limitations to these variables in terms of addressing the above question? For instance, what part of the above question can these variables address? What parts of the above question can they _not_ address?
 
 
+Although I could have used the labor participation increase to explain the increase in the workforce when it comes to women. However, we used that on question number three. Thus, I used the salaried workers male and female because if you look at the graph it shows an increase. 
+
+Another limitation is that there could be much better variables that could explain what happened.
 
 ### Describe your findings and their conclusions from your analysis.
+
+
+To conclude my findings, although both findings had a positive trend and a correlation, things did not look good in the U.K after 2008. We could see that women suffered more when it comes to unemployment in the U.K more than the men because the slope is steeper.
+
 
 
 
