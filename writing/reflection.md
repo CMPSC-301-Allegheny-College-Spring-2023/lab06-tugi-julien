@@ -41,7 +41,7 @@ Age at first marriage had a lot of limitations as there was not enough data for 
 
 ### Describe your findings and their conclusions from your analysis.
 
-
+We can see the decline in the marraige rate due to the increase of the age when people are getting married for both U.S and U.K
 
 ---
 
@@ -111,21 +111,21 @@ To conclude my findings, although both findings had a positive trend and a corre
 
 ## Q5: Complete an analysis to show evidence to confirm or refute the change in women’s bargaining power within the household.
 
-
-![Alt Text](Bargaining_woman.png)
+Using our evidence, we confirm a change in the women’s bargaining power within the household. In the UK, the Female share of employment in senior and middle management (%) was increasing until, in 2011, it dropped, as female workers were three times more likely to get fired in 2011 than male workers due to discrimination. In the US, the rate has increased from 37% to 42% for the past 15 years as more women are getting higher education.
 
 ### Justify the Variables or Indicator Names that you chose for this analysis. 
 
-
+We used the Female share of employment in senior and middle management (%) variable for the US and the UK as it shows how much more females are getting higher level jobs. As females are getting higher level jobs, they have more bargaining power in the household, which impacts their bargaining power in their household.
 
 #### What are the limitations to these variables in terms of addressing the above question? 
 
-
+The limitation to this variable is that the gender wage gap has many other factors which impact the bargaining power of women within the household, such as discrimination.
 
 ### Describe your findings and their conclusions from your analysis.
 
-
+Our findings show that the US and the UK are on a steady trend going up for more women receiving jobs in senior and middle management positions. Although the UK significantly dropped in 2011 due to discriminatory factors, these trends show us that more women are receiving better paid jobs which means they will have more income. As more women have more money, they have more purchasing power within the household they live in. This means they have more influence over purchasing decisions for their household, which gives them more bargaining power.
 
 ---
 
 (Did you remember to place the names of yourself and your group members above?)
+
